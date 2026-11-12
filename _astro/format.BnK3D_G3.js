@@ -1,0 +1,1 @@
+var e=`/panouricnc`.replace(/\/$/,``),t=t=>t.startsWith(`/`)&&!t.startsWith(`//`)?`${e}${t}`:t,n=new Intl.NumberFormat(`ro-RO`,{minimumFractionDigits:2,maximumFractionDigits:2});new Intl.NumberFormat(`ro-RO`,{maximumFractionDigits:2});var r=e=>`${n.format(e)}\u00a0lei`;export{t as n,r as t};

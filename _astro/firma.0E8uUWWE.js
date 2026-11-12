@@ -1,0 +1,1 @@
+var e={nume:`PanouriCNC`,societate:`Arcostar Team S.R.L.`,cui:`CUI 43061079 · J40/11798/2020`,telefon:`0744 363 655`,telefonLink:`tel:+40744363655`,telefoane:[`0746 682 498`,`0766 106 617`],whatsapp:`https://wa.me/40744363655`,email:`daniel@panouricnc.ro`,pragLivrareGratuita:2999,plata:`Card (Netopia), transfer bancar sau ramburs`};export{e as t};
